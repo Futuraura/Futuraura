@@ -35,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=futuraura&" alt="futuraura" /></p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pt9ufb4padmz904vthtcop60x)
