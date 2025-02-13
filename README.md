@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A person who has high expectations for everything he does :></h3>
-<img alight="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img alight="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futuraura&label=Profile%20views&color=0e75b6&style=flat" alt="futuraura" /> </p>
 
