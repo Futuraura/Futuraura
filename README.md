@@ -2,57 +2,57 @@
 
 ###
 
-<h2 align="left">Here's what I work with</h2>
+<h3 align="left">Here's what I work with</h3>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<h2 align="left">Here's how much I work</h2>
+<h3 align="left">Here's how much I work</h3>
 
 ###
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=Futuraura&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=Futuraura&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Futuraura&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Futuraura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left">Here's where you can find me</h2>
+<h3 align="left">Here's where you can find me</h3>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h2 align="left">Here's a funny snake game I found</h2>
+<h3 align="left">Here's a funny snake game I found</h3>
 
 ###
 
