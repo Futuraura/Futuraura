@@ -46,7 +46,7 @@
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=Futuraura&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=Futuraura&theme=tokyonight&hide_border=true&mode=weekly" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Futuraura&theme=synthwave&hide_border=true&mode=weekly" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Futuraura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
