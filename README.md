@@ -11,8 +11,6 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
