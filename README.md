@@ -1,8 +1,8 @@
-<h1 align="left">Heya! Welcome to my Github profile 👋</h1>
+<h1 align="left">Heya! Welcome to my github profile -w-</h1>
 
 ###
 
-<h3 align="left">Here's what I work with</h3>
+<h3 align="left">Heres what I like to work with</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Here's where you can find me</h3>
+<h3 align="left">Heres where you can find me</h3>
 
 ###
 
@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/markpikaro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:markpikaro@gmail.com" target="_blank">
+  <a href="mailto:mark@itsmark.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/682897708289228893" target="_blank">
@@ -56,15 +56,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/pt9ufb4padmz904vthtcop60x">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pt9ufb4padmz904vthtcop60x&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">Here's a funny snake game I found</h3>
+<h3 align="left">Heres a funny snake animation that I found somewhere :rofl:</h3>
 
 ###
 
